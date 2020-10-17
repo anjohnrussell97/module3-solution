@@ -1,0 +1,56 @@
+body{
+	font-size: 16px;
+	color: #fff;
+	background-color: grey;
+	font-family: 'Oxygen', sans-serif;
+}
+#header-nav{
+    background-color: #43220F;
+    border: 0;
+    border-radius: 0;
+    height: 150px;
+}
+#restoname{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: burlywood;
+}
+.parent-container{
+    display: flex;
+    flex-wrap: wrap;
+    align-self: center;
+}
+.child-container{
+    flex: 0 1 300px;
+    flex: 1 1 300x;
+    border: 1px solid red;
+    margin: 5% 50px 15px 15px;
+}
+.brand-logo-image{
+    width: 140px;
+    height: auto;
+}
+.header-color{
+    background-color: #43220F;
+}
+.text-algin-right{
+    text-align: right;
+}
+.menu-container{
+    border: 1px solid black;
+}
+.menu{
+    border: 1px solid black;
+    margin: 2% 2% 2% 2%;
+}
+.text-align{
+    text-align: center;
+    color: blue;
+}
+.background-color{
+    background-color: #F8F3ED;
+}
+.drop-menu-alignment{
+    text-align: right
+}
+
+
